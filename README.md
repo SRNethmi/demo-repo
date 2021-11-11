@@ -8,3 +8,7 @@ readmde is a file containing description about the project.
 clone the folder in github to local machine
 demo-repo git clone <link>
 
+then create a new file and save the changes
+git add .
+
+gti status 

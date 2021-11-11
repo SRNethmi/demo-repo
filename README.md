@@ -11,4 +11,8 @@ demo-repo git clone <link>
 then create a new file and save the changes
 git add .
 
-gti status 
+git status -  to see the uncommited modified files
+
+git commmit -m <message> -m <description>
+  
+git push origin main
